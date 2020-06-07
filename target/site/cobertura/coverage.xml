@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+
+<coverage line-rate="1.0" branch-rate="1.0" lines-covered="7" lines-valid="7" branches-covered="0" branches-valid="0" complexity="1.0" version="2.0.3" timestamp="1589675688139">
+	<sources>
+		<source>--source</source>
+		<source>C:/Users/manju/Documents/NetBeansProjects/Facebook/Employee/src/main/java</source>
+	</sources>
+	<packages>
+		<package name="com.itexps.employee" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+			<classes>
+				<class name="com.itexps.employee.EmployeeFirstLastName" filename="com/itexps/employee/EmployeeFirstLastName.java" line-rate="1.0" branch-rate="1.0" complexity="1.0">
+					<methods>
+						<method name="&lt;init&gt;" signature="()V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="12" hits="24" branch="false"/>
+							</lines>
+						</method>
+						<method name="getFname" signature="()Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="18" hits="12" branch="false"/>
+							</lines>
+						</method>
+						<method name="getLname" signature="()Ljava/lang/String;" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="26" hits="12" branch="false"/>
+							</lines>
+						</method>
+						<method name="setFname" signature="(Ljava/lang/String;)V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="22" hits="12" branch="false"/>
+								<line number="23" hits="12" branch="false"/>
+							</lines>
+						</method>
+						<method name="setLname" signature="(Ljava/lang/String;)V" line-rate="1.0" branch-rate="1.0">
+							<lines>
+								<line number="30" hits="12" branch="false"/>
+								<line number="31" hits="12" branch="false"/>
+							</lines>
+						</method>
+					</methods>
+					<lines>
+						<line number="12" hits="24" branch="false"/>
+						<line number="18" hits="12" branch="false"/>
+						<line number="22" hits="12" branch="false"/>
+						<line number="23" hits="12" branch="false"/>
+						<line number="26" hits="12" branch="false"/>
+						<line number="30" hits="12" branch="false"/>
+						<line number="31" hits="12" branch="false"/>
+					</lines>
+				</class>
+			</classes>
+		</package>
+	</packages>
+</coverage>
